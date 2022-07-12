@@ -5,11 +5,9 @@ Add task to list,
 
 Remove task from list,
 
-Edit task,
+Find and Edit task,
 
 Mark task as complete,
-
-Find task,
 
 See all pending tasks, etc.
 
